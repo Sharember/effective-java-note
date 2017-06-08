@@ -2,7 +2,7 @@
   "plugins": [
     "disqus",
     "github",
-    "editlink",
+    "editlink"
   ],
   "pluginsConfig": {
       "disqus": {
@@ -14,7 +14,7 @@
       "editlink": {
         "base": "https://github.com/CFshuming/effective-java-note/blob/master/content",
         "label": "编辑本页"
-      },
+      }
     }
   }
 }
