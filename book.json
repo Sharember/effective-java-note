@@ -1,15 +1,11 @@
 {
   "plugins": [
     "disqus",
-    "github",
     "editlink"
   ],
   "pluginsConfig": {
       "disqus": {
         "shortName": "effectivejava"
-      },
-      "github": {
-        "url": "https://github.com/CFshuming/effective-java-note"
       },
       "editlink": {
         "base": "https://github.com/CFshuming/effective-java-note/blob/master/content",
