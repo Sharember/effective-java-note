@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [简介](README.md)
 
 * [创建和销毁对象](first/README.md)
 

@@ -1,3 +1,4 @@
-# My Awesome Book
+# 简介
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+efferctive java学习笔记。书基于jdk1.6，我学完了以后，会改为1.8。
+
