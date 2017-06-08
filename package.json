@@ -1,0 +1,17 @@
+{
+  "name": "more-effective-java",
+  "version": "1.0.0",
+  "description": "efferctive java学习笔记。书基于jdk1.6，我学完了以后，会改为1.8。",
+  "dependencies": {
+    "gitbook-plugin-disqus": "^0.1.0"
+  },
+  "devDependencies": {
+    "gitbook-plugin-disqus": "^0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.gitbook.com/cfshuming/more-effective-java.git"
+  },
+  "author": "cfshuming",
+  "license": "ISC"
+}
