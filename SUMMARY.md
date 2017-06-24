@@ -13,4 +13,6 @@
   * [8: 覆盖 equals 时请遵守通用规定](dui-yu-suo-you-dui-xiang-du-tong-yong-de-fang-fa/8-fu-gai-equals-shi-qing-zun-shou-tong-yong-gui-ding.md)
   * [9:覆盖equals时总要覆盖hashcode](dui-yu-suo-you-dui-xiang-du-tong-yong-de-fang-fa/9fu-gai-equals-shi-zong-yao-fu-gai-hashcode.md)
   * [10:始终要覆盖toString](dui-yu-suo-you-dui-xiang-du-tong-yong-de-fang-fa/10shi-zhong-yao-fu-gai-tostring.md)
+  * [11:谨慎的覆盖clone](dui-yu-suo-you-dui-xiang-du-tong-yong-de-fang-fa/11jin-shen-defu-gai-clone.md)
+  * [12:考虑实现Comparable接口](dui-yu-suo-you-dui-xiang-du-tong-yong-de-fang-fa/12kao-lv-shi-xian-comparable-jie-kou.md)
 
