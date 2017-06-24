@@ -16,3 +16,8 @@
   * [11:谨慎的覆盖clone](dui-yu-suo-you-dui-xiang-du-tong-yong-de-fang-fa/11jin-shen-defu-gai-clone.md)
   * [12:考虑实现Comparable接口](dui-yu-suo-you-dui-xiang-du-tong-yong-de-fang-fa/12kao-lv-shi-xian-comparable-jie-kou.md)
 
+
+* [类和接口]()
+
+  * 13:使类和成员的可访问性最小化
+
