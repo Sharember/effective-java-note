@@ -12,5 +12,5 @@
 * [对于所有对象都通用的方法](dui-yu-suo-you-dui-xiang-du-tong-yong-de-fang-fa.md)
   * [8: 覆盖 equals 时请遵守通用规定](dui-yu-suo-you-dui-xiang-du-tong-yong-de-fang-fa/8-fu-gai-equals-shi-qing-zun-shou-tong-yong-gui-ding.md)
   * [9:覆盖equals时总要覆盖hashcode](dui-yu-suo-you-dui-xiang-du-tong-yong-de-fang-fa/9fu-gai-equals-shi-zong-yao-fu-gai-hashcode.md)
-  * 10:始终要覆盖toString
+  * [10:始终要覆盖toString](dui-yu-suo-you-dui-xiang-du-tong-yong-de-fang-fa/10shi-zhong-yao-fu-gai-tostring.md)
 
