@@ -10,3 +10,7 @@
   * [6:消除过期的对象引用](first/6xiao-chu-guo-qi-de-dui-xiang-yin-yong.md)
   * [7:避免使用终结方法](first/7bi-mian-shi-yong-zhong-jie-fang-fa.md)
 
+* [对于所有对象都通用的方法]()
+
+  * [8: 覆盖 equals 时请遵守通用规定](dui-yu-suo-you-dui-xiang-du-tong-yong-de-fang-fa/8-fu-gai-equals-shi-qing-zun-shou-tong-yong-gui-ding.md)
+
