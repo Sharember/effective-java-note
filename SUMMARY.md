@@ -17,6 +17,6 @@
   * [12:考虑实现Comparable接口](dui-yu-suo-you-dui-xiang-du-tong-yong-de-fang-fa/12kao-lv-shi-xian-comparable-jie-kou.md)
 * [类和接口](three/README.md)
   * [13:使类和成员的可访问性最小化](13shi-lei-he-cheng-yuan-de-ke-fang-wen-xing-zui-xiao-hua.md)
-  * 14:在公有类中使用访问方法而非公有域
+  * [14:在公有类中使用访问方法而非公有域](14zai-gong-you-lei-zhong-shi-yong-fang-wen-fang-fa-er-fei-gong-you-yu.md)
   * [15:使可变性最小化](15shi-ke-bian-xing-zui-xiao-hua.md)
 
