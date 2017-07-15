@@ -19,4 +19,5 @@
   * [13:使类和成员的可访问性最小化](three/13shi-lei-he-cheng-yuan-de-ke-fang-wen-xing-zui-xiao-hua.md)
   * [14:在公有类中使用访问方法而非公有域](three/14zai-gong-you-lei-zhong-shi-yong-fang-wen-fang-fa-er-fei-gong-you-yu.md)
   * [15:使可变性最小化](three/15shi-ke-bian-xing-zui-xiao-hua.md)
+  * [16:复合优先于继承](three/16fu-he-you-xian-yu-ji-cheng.md)
 
